@@ -14,6 +14,7 @@ Cada carné del equipo lleva un código QR que abre la ficha de la persona.
 | [PIC-TJ-004-2026](PIC-TJ-004-2026.html) | Javier Galindo Bernal | Director académico |
 | [PIC-TJ-005-2026](PIC-TJ-005-2026.html) | Cindy Tatiana Forero Peraza | Capacitadora |
 | [PIC-TJ-006-2026](PIC-TJ-006-2026.html) | María Fernanda Cifuentes Gómez | Capacitadora |
+| [PIC-TJ-007-2026](PIC-TJ-007-2026.html) | Laura Stephanya Gómez Jiménez | Coordinadora |
 
 - **Vigencia:** hasta el 31 de diciembre de 2026
 - **Correo de verificación:** quantikasascol@gmail.com
