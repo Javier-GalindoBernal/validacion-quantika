@@ -20,6 +20,6 @@ Cada carné del equipo lleva un código QR que abre la ficha de la persona.
 - **Correo de verificación:** quantikasascol@gmail.com
 - **Número de verificación:** 333 401 8439
 
-Para reemplazar el marcador `FOTO` por la fotografía de una persona, suba la imagen a
-`img/` y cambie `<div class="avatar">FOTO</div>` por
-`<div class="avatar"><img src="img/<archivo>"></div>` en su ficha.
+Las fichas toman la fotografía de `img/<código>.jpg` (por ejemplo `img/PIC-TJ-001-2026.jpg`).
+Si el archivo no existe, la ficha muestra el marcador `FOTO`. Para agregar una fotografía
+basta con subirla a `img/` con el código de la persona como nombre y volver a generar las páginas.
